@@ -3,9 +3,9 @@ logo: "/jason.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Python/Intelligent Automation Engineer
   <br><br>
-  body {
+body {
   background-color: lightblue;
-}
+ }
 <body>
   <a href="mailto:jasondexterbrown@gmail.com">jasondexterbrown@gmail.com</a>
   <br>
