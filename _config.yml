@@ -9,14 +9,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/jasondexterbrown/">LinkedIn Profile</a>
   <br><br>
-  ##Python Projects
+  ***Python Projects***
   <br>
-  <p>
-  https://github.com/JdexterBrown/Money_Man-of-Wall-Street.git
-  </p>
+ 
   <br>
   <a href="https://github.com/JdexterBrown/Money_Man-of-Wall-Street.git">Money Man Project</a>
-  [Link text Here](https://link-url-here.org)
+  <br>
+ <a href="https://github.com/JdexterBrown/jason_d_brown_automation_profile.github.io">Jason Brown Developer Github Page Project</a>
   
    
 theme: jekyll-theme-minimal
